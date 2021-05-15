@@ -1,1 +1,1 @@
-# student-hall
+# thomasUniversityHalls
